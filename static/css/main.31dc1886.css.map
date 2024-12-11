@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.31dc1886.css","mappings":"AAAA,EAGI,qBAAsB,CAFtB,QAAS,CACT,SAEJ,CAEA,MACI,eACJ,CACA,KACI,wBACJ","sources":["index.css"],"sourcesContent":["*{\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\nul,li {\r\n    list-style: none;\r\n}\r\nbody{\r\n    background-color: #002451;\r\n}"],"names":[],"sourceRoot":""}
